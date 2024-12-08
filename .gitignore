@@ -170,3 +170,8 @@ out.tap
 test/https/fastify.cert
 test/https/fastify.key
 /test/types/import.js
+
+# prisma
+prisma/dev.db-journal
+prisma/migrations/migration_lock.toml
+dev.db
