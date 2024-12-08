@@ -175,3 +175,6 @@ test/https/fastify.key
 prisma/dev.db-journal
 prisma/migrations/migration_lock.toml
 dev.db
+
+# rest
+*.http
